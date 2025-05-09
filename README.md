@@ -1,5 +1,5 @@
-# IBMLLM
-## Generative AI Engineering with LLMs Specialization
+# IBMGALLM
+## Generative AI Engineering with LLMs Specialization (7 course series)
 
 The Gen AI market is expected to grow 46% .  yearly till 2030 (Source: Statista). Gen AI engineers are high in demand. This program gives aspiring data scientists, machine learning engineers, and AI developers essential skills in Gen AI, large language models (LLMs), and natural language processing (NLP) employers need. 
 
